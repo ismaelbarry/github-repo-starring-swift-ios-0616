@@ -8,6 +8,7 @@
 
 import Foundation
 
+// Link to lab:
 // https://github.com/learn-co-students/github-repo-starring-swift-ios-0616
 
 // Lab Objective:
